@@ -1,0 +1,35 @@
+{
+    "DoxComment": {
+        "prefix": "!dox",
+        "body": "///",
+        "description": "Normal Comments for Doxygen",
+    },
+    "Multi-line Comment": {
+        "prefix": "!long",
+        "body": "/** \n * ... text ... \n */",
+        "description": "Multi-line comment for Doxygen",
+    },
+    "Spacious Comment": {
+        "prefix": "!com",
+        "body": "/// \n /// ... text ...\n ///",
+        "description": "comment for Doxygen with space",
+    },
+    "Visible Comment": {
+        "prefix": "!vis",
+        "body": "///////////////////////////////////////////////// \n /// ... text ... \n /////////////////////////////////////////////////",
+        "description": "Comment for doxygen that is very visible, hard to miss",
+    },
+    "Description": {
+        "prefix": "!des",
+        "body": "/** Brief description which ends at this dot. Details follow \n  *  here. \n */",
+        "description": "Good description block for doxygen",
+    },
+    "Full Description": {
+        "prefix": "!full",
+        "body": "/// Brief description. \n /** Detailed description. */",
+        "description": "Includes a brief description followed by a detailed description",
+    },
+
+    
+    
+}
