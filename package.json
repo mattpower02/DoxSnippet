@@ -1,0 +1,26 @@
+{
+  "name": "doxsnip",
+  "displayName": "DoxSnip",
+  "description": "Snippets to be used with C++ code for documentation for Doxygen",
+  "version": "1.0.0",
+  "publisher": "Matt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattpower02/LogoDox"
+  },
+  "icon": "logo.png",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
