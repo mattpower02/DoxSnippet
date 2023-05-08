@@ -16,6 +16,8 @@ No special requirements. To use for C++ language.
 
 Setup for this extension is simple. Simply click install and wait for the install to finish. After a successful install, make sure the extension is enabled. Now, whenever you are editing a c++ file within VSCode, if you use any of the shortcuts such as !full, you will see the snippet and use this extension to help with documentation for Doxygen!
 
+To setup this extension locally (on mac): create a new folder 'DoxSnip' and put it on your desktop. Download all of the files and place it into that folder. Then, open finder and hit 'command + shift + h' to get to users. Then, hit 'command + shift + . ' To show hidden files. Scroll down to .vscode (hidden folder), open the folder and naigate to extensions. Drag the 'DoxSnip' folder into the extensions folder. Restart VSCode and look for DoxSnip under installed extensions!
+
 
 ## Known Issues
 
