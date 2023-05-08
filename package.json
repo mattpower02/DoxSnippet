@@ -2,7 +2,7 @@
   "name": "doxsnip",
   "displayName": "DoxSnip",
   "description": "Snippets to be used with C++ code for documentation for Doxygen",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "publisher": "Matt",
   "repository": {
     "type": "git",
