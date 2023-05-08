@@ -12,6 +12,10 @@ Version 1.0.1 has just released! This includes new snippets.
 
 No special requirements. To use for C++ language.
 
+#Setup
+
+Setup for this extension is simple. Simply click install and wait for the install to finish. After a successful install, make sure the extension is enabled. Now, whenever you are editing a c++ file within VSCode, if you use any of the shortcuts such as !full, you will see the snippet and use this extension to help with documentation for Doxygen!
+
 
 ## Known Issues
 
