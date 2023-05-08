@@ -23,6 +23,10 @@ To setup this extension locally (on mac): create a new folder 'DoxSnip' and put 
 
 The cursor will go to the end of the snippet. We are looking at resolving this issue in version 2.0.0
 
+## Project Status
+
+This is an extension for a class project. There will be limited updates after version 1.0.1.
+
 ## Release Notes
 
 New Snippets available in Version 1.0.1
